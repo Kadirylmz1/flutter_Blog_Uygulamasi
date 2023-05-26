@@ -1,3 +1,3 @@
-blog Uygulaması 
+Blog Uygulaması 
 
 Kadir Yılmaz
