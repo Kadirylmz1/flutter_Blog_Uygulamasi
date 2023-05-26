@@ -1,1 +1,3 @@
-# flutter_Blog_Uygulamasi
+blog Uygulaması 
+
+Kadir Yılmaz
